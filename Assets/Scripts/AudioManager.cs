@@ -42,7 +42,10 @@ public AudioClip Salto_3_D;
 public AudioClip Salto_Burbuja_1;
 public AudioClip Salto_Burbuja_2;
 public AudioClip Salto_Burbuja_3;
-
+public AudioClip Maceta_Move;
+public AudioClip Maceta_Break;
+public AudioClip Pasos;
+public AudioClip Enojo;
 
 
 private void Start(){
