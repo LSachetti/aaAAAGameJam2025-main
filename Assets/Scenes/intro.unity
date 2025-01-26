@@ -755,6 +755,10 @@ MonoBehaviour:
   talkingText: {fileID: 1938253167}
   dialogueAnimator: {fileID: 197097331}
   _keyCheck: {fileID: 27453420}
+  Maceta_Arrastra: {fileID: 8300000, guid: 1663035fb2fd8154295e0adf3bf7883c, type: 3}
+  Maceta_Break: {fileID: 8300000, guid: 203edce95ab08a44a948f8a8fa565b09, type: 3}
+  Pasos: {fileID: 8300000, guid: 937553df20c0a964eb9215019582d579, type: 3}
+  Enojo: {fileID: 8300000, guid: ca5fe9fc4a70a7b4a80d4be75f601a11, type: 3}
   _sfx: {fileID: 958572936}
 --- !u!1 &224951723
 GameObject:
