@@ -44,6 +44,8 @@ public AudioManager _sfx;
 
             case 54:
             dialogueAnimator.SetTrigger("exit");
+            UnityEngine.SceneManagement.SceneManager.LoadScene("Tutorial");
+
             break;
 
         }
